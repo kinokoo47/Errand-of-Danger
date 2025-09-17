@@ -10,6 +10,6 @@ Minecraft Java Edition Ver.1.21.1　　　※二次配布はお控えくださ�
 1. Errand of Danger Resourcepack.zip をダウンロードします。
 2. ダウンロードしたzipファイルをマインクラフトの resourcepacks フォルダ内に移動させます。
 3. マインクラフトを起動し、設定、リソースパック の順でメニューを開きます。
-4. Errand of Danger.zip を適用させてください。
+4. Errand of Danger Resourcepack.zip を適用させてください。
 
 ※なお、シングルプレイの場合はワールドに入る際に自動でリソースパックが適用されます。
